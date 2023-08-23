@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: white;
+    font-size: xx-large;
+}
+
+button{
+    background-color: aqua;
+    border-radius: 4px;
+    padding-left: 17px;
+    padding-right: 18px;
+    height: 34px;
+    box-shadow: 0 0 10px black;
+}
+
+input{
+    border-radius: 4px;
+    padding-left: 4px;
+    width: 20%;
+    height: 30px;
+
+}
+
+div{
+    margin: 51px;
+    padding-top: 13%;
+    /* font-size:200%; */
+}
