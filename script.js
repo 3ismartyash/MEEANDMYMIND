@@ -10,10 +10,10 @@ submit.addEventListener('click',()=>{
     if(n<=36){
     for(let i=0;i<arr.length;i++){
         if(arr[i]!=n){
-            val = "https://3ismartyash.github.io/MEEANDMYMIND/black.html";
+            val = "https://3ismartyash.github.io/MEEANDMYMIND/BLACK.html";
         }
         else{
-            val = "https://3ismartyash.github.io/MEEANDMYMIND/white.html";
+            val = "https://3ismartyash.github.io/MEEANDMYMIND/WHITE.html";
             break;
         }
     }
