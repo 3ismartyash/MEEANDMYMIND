@@ -10,10 +10,10 @@ submit.addEventListener('click',()=>{
     if(n<=36){
     for(let i=0;i<arr.length;i++){
         if(arr[i]!=n){
-            val = "http://127.0.0.1:5500/black.html";
+            val = "https://3ismartyash.github.io/MEEANDMYMIND/black.html";
         }
         else{
-            val = "http://127.0.0.1:5500/white.html";
+            val = "https://3ismartyash.github.io/MEEANDMYMIND/white.html";
             break;
         }
     }
